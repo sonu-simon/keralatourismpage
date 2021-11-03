@@ -1,0 +1,41 @@
+.navBarItems {
+    margin-right: 32px;
+}
+
+.nav-item {
+    padding: 8px;
+}
+
+#login-btn {
+    margin: 8px;
+    color: whitesmoke;
+    border: 2px solid whitesmoke;
+}
+
+#login-btn:hover {
+    background-color: whitesmoke;
+    color: black;
+}
+
+.carousel-item img {
+    /* height: 700px; */
+    background-size: cover;
+
+}
+
+.carousel-item {
+    height: 60vh;
+}
+
+.carousel-caption {
+    background-color: beige;
+    opacity: 0.7;
+    width: 50%;
+    margin-left: 200px;
+    border-radius: 1vh;
+    height: 10vh;
+}
+
+.row {
+    margin: 2%;
+}

@@ -1,0 +1,21 @@
+.navBarItems{
+    margin-right: 2%;
+}
+
+body{
+    background-image: url(../images/loginBG.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.loginContainer{
+    padding: 1%;
+    background-color: beige;
+    border-radius: 1.2vh;
+    opacity: 0.9;
+    width: 25%;
+    height: 20%;
+    margin-left: 37.5%;
+    margin-right: 37.5%;
+    margin-top: 5%;
+}
